@@ -31,6 +31,8 @@ Salman Faris
 
 Zach Fredin
 
+Limor Fried
+
 Drew Fustini
 
 Alicia Gibb
